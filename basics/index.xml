@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Bessel&#39;s Novel Blog</title>
+    <link>/basics/</link>
+    <description>Recent content in Basics on Bessel&#39;s Novel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Feb 2024 08:54:42 -0800</lastBuildDate><atom:link href="/basics/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
